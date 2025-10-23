@@ -1,0 +1,26 @@
+{
+    "services": [
+      {
+        "title": "Galactic Cruiser™",
+        "description": "An innovative spacecraft designed for deep space exploration, equipped with advanced life support systems and AI-driven navigation.",
+        "icon": "layers"
+      },
+      {
+        "title": "SkySailor Drones™",
+        "description": "Environmentally-friendly drones powered by solar and wind energy, suitable for both recreational and professional use.",
+        "icon": "layers"
+      },
+      {
+        "title": "Nebula Stations™",
+        "description": "Modular space habitats intended for research, tourism, and potential future colonization efforts",
+        "icon": "layers"
+      },
+      {
+        "title": "AeroAcademy™:",
+        "description": "An immersive training institution offering programs in aerospace engineering, astronaut training, and space tourism orientation.",
+        "icon": "layers"
+      }
+  
+    ]
+  }
+  
